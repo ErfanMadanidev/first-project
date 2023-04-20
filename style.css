@@ -18,3 +18,9 @@ p {
   font-size: 30px;
   margin-top: 20px;
 }
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: azure;
+}
