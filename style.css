@@ -5,9 +5,16 @@
 }
 
 body {
+  height: 100vh;
   background: pink;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 p {
-  color: darkgray;
+  color: rgb(75, 75, 75);
+  font-size: 30px;
+  margin-top: 20px;
 }
